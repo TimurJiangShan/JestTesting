@@ -1,0 +1,16 @@
+{
+    "presets": [
+        ["@babel/preset-env", {
+            "targets": {
+                "node": "current"
+            }
+        }]
+    ]
+}
+
+// npm run jest
+// jest (babel-jest)
+// babel-core
+// 取 .babelrc 配置
+// 在运行测试之前，结合babel， 先把你的代码做一次转化
+// 运行转化过的测试用例代码
