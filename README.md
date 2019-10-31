@@ -1,3 +1,3 @@
 # JestTesting
-## JEST testing techniques and knowledge
+## JEST testing techniques
 ### Enzyme
